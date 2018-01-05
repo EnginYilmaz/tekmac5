@@ -19,6 +19,6 @@
 <h1>The XMLHttpRequest Object</h1>
 <button type="button" onclick="loadDoc()">Change Content</button>
 </div>
-</body>
+</body> 
 </html>
 
